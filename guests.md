@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        | 
-| Marija            | 4                |
+| Marija Vandot     | 4             |
